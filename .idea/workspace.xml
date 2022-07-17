@@ -9,16 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a84e70d-6ef2-49cb-b9a0-09c37821dfd7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3a84e70d-6ef2-49cb-b9a0-09c37821dfd7" name="Changes" comment="actualizacion de archivos por erro al subir a git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/poli/ces3/customers/custommers/entities/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/poli/ces3/customers/custommers/entities/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/poli/ces3/customers/entities/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/poli/ces3/customers/entities/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/poli/ces3/customers/servlets/SrvlCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/poli/ces3/customers/servlets/SrvlCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/customers/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/customers/list.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,8 +160,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658084223983</updated>
-      <workItem from="1658084225679" duration="2930000" />
+      <workItem from="1658084225679" duration="4623000" />
     </task>
+    <task id="LOCAL-00001" summary="actualizacion de archivos por erro al subir a git">
+      <created>1658087238678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658087238678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,5 +185,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="actualizacion de archivos por erro al subir a git" />
+    <option name="LAST_COMMIT_MESSAGE" value="actualizacion de archivos por erro al subir a git" />
   </component>
 </project>
